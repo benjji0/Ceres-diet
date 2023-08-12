@@ -23,10 +23,17 @@ See nutrional data and plans
 - Intel daal4py
 - Intel OneAPI Devcloud JupyterLab
 
-![image](https://github.com/benjji0/Ceres-diet/assets/117336957/bf706079-2972-46c4-b682-bb1aa83653d3)
+#
+
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/9965b09d-6fef-4b8e-8663-2e029cd3fe88)
+
+# 
 - We first reset numpy version, by upgrading it this is beacause there is a an error while reading interlex
 - Next we !pip install sklearn - interlex package which force resets and reverts numpy package and downloads remaining packages
-- Then we import daal4py from OneDAL Library et voila we good to go 
+- Then we import daal4py from OneDAL Library et voila we good to go
+#
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/bf706079-2972-46c4-b682-bb1aa83653d3)
+
 ![image](https://github.com/benjji0/Ceres-diet/assets/117336957/81190186-6ecf-4d8a-aa68-7ed168e9fa16)
 
 We can make use of intel's sklearnex for optimised performance for heavy computing tasks like clustering and linear regression
