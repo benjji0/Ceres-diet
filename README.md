@@ -22,7 +22,7 @@ See nutrional data and plans
 - Intel scikit-learn-intelex
 - Intel daal4py
 - Intel OneAPI Devcloud JupyterLab
-#
+# Data Analysis and Processing
 
 ![Screen Capture_select-area_20230812192958](https://github.com/benjji0/Ceres-diet/assets/117336957/eb5e4848-b0f4-4d6e-b046-29cb583a7830)
 
