@@ -23,15 +23,14 @@ See nutrional data and plans
 - Intel daal4py
 - Intel OneAPI Devcloud JupyterLab
 #
-![image](https://github.com/benjji0/Ceres-diet/assets/117336957/9965b09d-6fef-4b8e-8663-2e029cd3fe88)
+
+![Screen Capture_select-area_20230812192958](https://github.com/benjji0/Ceres-diet/assets/117336957/eb5e4848-b0f4-4d6e-b046-29cb583a7830)
+
 #
 - We first reset numpy version, by upgrading it this is beacause there is a an error while reading interlex
 - Next we !pip install sklearn - interlex package which force resets and reverts numpy package and downloads remaining packages
 - Then we import daal4py from OneDAL Library et voila we good to go
-#
 
-
-# 
 
 ![image](https://github.com/benjji0/Ceres-diet/assets/117336957/bf706079-2972-46c4-b682-bb1aa83653d3)
 
