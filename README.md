@@ -13,7 +13,7 @@ See nutrional data and plans
 
 ![Screen Capture_select-area_20230812185224](https://github.com/benjji0/Ceres-diet/assets/117336957/665b9c4d-7284-4660-a559-ba5df357b1ff)
 
-# Fruit bowl maker, nutri - m style
+# Fruit bowl maker, Nutri - M style
 
 
 ![Screen Capture_select-area_20230812185453](https://github.com/benjji0/Ceres-diet/assets/117336957/5bb81a99-f563-4899-aba4-4f535c1635de)
