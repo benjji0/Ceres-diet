@@ -22,13 +22,14 @@ See nutrional data and plans
 - Intel scikit-learn-intelex
 - Intel daal4py
 - Intel OneAPI Devcloud JupyterLab
-
+#
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/9965b09d-6fef-4b8e-8663-2e029cd3fe88)
 #
 - We first reset numpy version, by upgrading it this is beacause there is a an error while reading interlex
 - Next we !pip install sklearn - interlex package which force resets and reverts numpy package and downloads remaining packages
 - Then we import daal4py from OneDAL Library et voila we good to go
 #
-![image](https://github.com/benjji0/Ceres-diet/assets/117336957/9965b09d-6fef-4b8e-8663-2e029cd3fe88)
+
 
 # 
 
@@ -39,3 +40,16 @@ See nutrional data and plans
 
 We can make use of intel's sklearnex for optimised performance for heavy computing tasks like clustering and linear regression
 It works wel with regular sklearn packages that are not available in sklearnex like standardscaler
+
+#
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/e9ee704d-d9c6-49f9-9f8d-792322ee4873)
+We use daal4py for applying linear regression model.
+#
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/7ba97d42-a1b1-42e5-9f30-62d85d5e9508)
+we can apply existing models together and check their feasibility
+$
+using skelarnex clustering we can find an optimised better result
+### With intel sklearnex
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/2a46a5c4-4fc8-4a24-bd84-aafa5ea86d62)
+### Without intel sklearnex
+![image](https://github.com/benjji0/Ceres-diet/assets/117336957/146c4480-b1d3-403a-a791-b6a4d031a69c)
